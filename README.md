@@ -1,14 +1,12 @@
-# package.json
+# Pagina web hecho en Vue 3 y Vuetify 3
 
-This template should help get you started developing with Vue 3 in Vite.
+## To do
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Refactorizar codigo
+- Mejorar App.vue
+- Separar header y footer a componentes
+- Agregar mapa ubicación del consultorio usando API
+- Mobile first botones de contacto
 
 ## Project Setup
 
